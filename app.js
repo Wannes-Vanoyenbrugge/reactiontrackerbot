@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 // app.js
 
 // importeer bolt
